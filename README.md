@@ -1,4 +1,4 @@
-# vue-cli3 全面配置(持续更新)
+fork from [https://github.com/staven630/vue-cli3-config](https://github.com/staven630/vue-cli3-config)
 &emsp;&emsp;细致全面的vue-cli3配置信息。涵盖了使用vue-cli开发过程中大部分配置需求。
 
 &emsp;&emsp;不建议直接拉取此项目作为模板，希望能按照此教程按需配置，或者复制vue.config.js增删配置,并自行安装所需依赖。
